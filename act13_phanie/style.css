@@ -1,0 +1,43 @@
+
+body{
+    text-align: center;
+}
+header{
+    border: 2px solid black;
+    margin: 40px 100px 0px;
+    padding: 15px;
+    background-color: rgb(255, 0, 183);
+    font-size: 30px;
+}
+nav{
+border: 2px solid black;
+    margin: 0px 100px 0px;
+    padding: 15px;
+}
+a{
+margin: 0px 50px 0px;
+font-size: 20px;
+color: rgb(56, 5, 14);
+}
+aside{
+border: 2px solid black;
+    margin: 0px 100px 0px;
+    width: 595px;
+    height: 305px;
+    float: right;
+}
+
+footer{
+border: 2px solid black;
+    margin: 0px 100px 0px;
+    padding: 15px;
+    width: 1116px;
+    height: 50px;
+}
+#same{
+    
+border: 2px solid black;
+margin: 0px 100px 0px;
+width: 550px;
+height: 150px;
+}
